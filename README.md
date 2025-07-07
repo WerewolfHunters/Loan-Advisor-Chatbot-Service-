@@ -42,8 +42,8 @@ website-testing-1/<br>
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/WerewolfHunters/Loan-Advisor-Chatbot-Service-.git)
+cd Loan-Advisor-Chatbot-Service-
 ```
 
 2. Follow the setup instructions below for backend and frontend.
