@@ -243,10 +243,3 @@ Built by Mahimi Awwab Sultan.
 ## 🛡️ License
 MIT – Use it freely, credit appreciated!
 
----
-
-Let me know if you'd also like:
-
-- `requirements.txt`
-- Custom deployment instructions (e.g., for Render or Hugging Face Spaces)
-- A sample `.env.example`
