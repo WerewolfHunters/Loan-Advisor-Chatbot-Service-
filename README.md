@@ -177,6 +177,9 @@ In the UI, type something like:
 ```csharp
 I want a loan of 30000. My income is 50000 and credit score is 680
 ```
+![Screenshot 2025-07-07 234939](https://github.com/user-attachments/assets/b2e2d3cb-13ac-4514-8da0-f8cd2646da79)
+![Screenshot 2025-07-07 235004](https://github.com/user-attachments/assets/126e90ad-7cd2-4f72-8fae-985475022af8)
+
 You’ll receive:
 - 🧠 Natural explanation from LangChain + Groq
 - 📈 Top 3 lenders with rates and reasons
