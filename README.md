@@ -56,7 +56,6 @@ cd Loan-Advisor-Chatbot-Service-
 
 ### 📦 NPM Packages Installed
 
-<details>
 <summary><strong>Backend (Node.js + TypeScript)</strong></summary>
 
 ```bash
@@ -71,9 +70,6 @@ These are used for:
 - Type declarations via `@types/*`
 
 
-</details>
-
-<details>
 <summary><strong>Frontend (React + TypeScript)</strong></summary>
 
 ```bash
@@ -86,8 +82,6 @@ These are used for:
 - `vite` – fast dev server
 - `axios` – HTTP requests
 - TypeScript and its types
-
-</details>
 
 ---
 
