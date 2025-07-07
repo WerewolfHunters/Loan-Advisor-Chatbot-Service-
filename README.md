@@ -136,8 +136,7 @@ python-dotenv
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 ```
-I have given you my api key which would expire within a week.<br>
-Better if you use your own Groq api key from the link above.
+I have given you my api key which would expire within a week. Better if you use your own Groq api key from the link above.
 
 5. If there is no `match_model.joblib` then do the following else go to step 6:
 ```bash
