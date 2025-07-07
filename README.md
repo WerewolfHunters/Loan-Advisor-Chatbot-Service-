@@ -52,8 +52,6 @@ cd Loan-Advisor-Chatbot-Service-
 
 ## ✅ 2. **List of All `npm` Packages You Installed**
 
-Add this under a new section titled **"📦 Installed NPM Packages"** or inside the **Backend Setup** and **Frontend Setup** sections. Here's a consolidated list based on your project:
-
 ---
 
 ### 📦 NPM Packages Installed
@@ -90,20 +88,6 @@ These are used for:
 - TypeScript and its types
 
 </details>
-
----
-
-## ✅ Final Tip
-
-Now your updated flow will look like this:
-- git clone ...
-- cd into directory
-- Follow backend + frontend setup
-
----
-
-📦 Installed NPM Packages
-<Backend packages list> <Frontend packages list> 
 
 ---
 
