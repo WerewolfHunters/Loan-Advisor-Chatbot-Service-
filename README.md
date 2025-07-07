@@ -137,7 +137,13 @@ python-dotenv
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-5. Run the server:
+5. If there is no `match_model.joblib` then do the following else go to step 6:
+```bash
+cd backend/services
+python train_model.py
+```
+
+6. Run the server:
 ```bash
 cd ..
 npx ts-node app.ts
