@@ -42,7 +42,7 @@ website-testing-1/<br>
 1. **Clone the repository**
 
 ```bash
-git clone (https://github.com/WerewolfHunters/Loan-Advisor-Chatbot-Service-.git)
+git clone https://github.com/WerewolfHunters/Loan-Advisor-Chatbot-Service-.git
 cd Loan-Advisor-Chatbot-Service-
 ```
 
