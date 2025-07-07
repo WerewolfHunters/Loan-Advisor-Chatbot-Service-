@@ -103,7 +103,7 @@ Now your updated flow will look like this:
 ---
 
 📦 Installed NPM Packages
-```<Backend packages list> <Frontend packages list> ```
+<Backend packages list> <Frontend packages list> 
 
 ---
 
